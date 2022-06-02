@@ -69,8 +69,8 @@ D7 = X Y Z
 ### PROGRAM 
 ```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: A Joans jay authers
-RegisterNumber:  212221240019
+Developed by: M Parshwanath
+RegisterNumber:  212221230073
 
 module enc(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
 input d0,d1,d2,d3,d4,d5,d6,d7;
@@ -86,7 +86,7 @@ endmodule
 
 ### RTL LOGIC  
 
-![git log](m1.png)
+![git log](1.png)
 
 
 
@@ -96,19 +96,19 @@ endmodule
 
 ### TIMING DIGRAMS  
 
-![git log](m2.jpeg)
+![git log](2.jpeg)
 
 
 
 ### TRUTH TABLE 
-![git log](m3.png)
+![git log](3.png)
 
 
 ## PROGRAM(DECODER):
 ```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by:  A K MOHAN RAJ
-RegisterNumber:  212221230064
+Developed by: M Parshwanath
+RegisterNumber:  212221230073
 
 
 module enc(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
@@ -127,13 +127,13 @@ endmodule
 ```
 
 ## RTL LOGIC:
-![git log](m4.png)
+![git log](4.png)
 
 ## TIMING DIAGRAM:
-![git log](m5.png)
+![git log](5.png)
 
 ## TRUTH TABLE:
-![git log](m6.png)
+![git log](6.png)
 ### RESULTS 
 
 Thus the program to desing encoder and decoder is done.
